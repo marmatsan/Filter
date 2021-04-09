@@ -1,0 +1,9 @@
+Cómo compilar:
+
+gcc -Wall -g prueba_collection.c *.o -o prueba_collection
+
+
+Ejemplo ejecución:
+
+./prueba_collection .
+

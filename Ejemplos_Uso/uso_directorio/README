@@ -1,0 +1,7 @@
+Cómo compilar:
+gcc -Wall -g prueba_directorio.c directorio.o -o prueba_directorio
+
+Cómo ejecutar:
+
+./prueba_directorio
+

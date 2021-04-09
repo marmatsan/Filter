@@ -1,0 +1,8 @@
+Para compilar:
+
+gcc -Wall -g prueba_item.c item.o -o prueba_item
+
+Para ejecutar:
+
+./prueba_item . prueba_item.c
+

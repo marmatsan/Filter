@@ -1,0 +1,3 @@
+[copy]
+src_dir = %(material_dir)s/Miscelaneous/Templates/Code_es
+files = *.templ main.c

@@ -1,0 +1,4 @@
+Para compilar:
+
+gcc -Wall -g prueba_menu.c input_program.o menu.o -o prueba_menu
+

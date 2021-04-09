@@ -1,0 +1,7 @@
+Cómo compilar:
+
+gcc -Wall -g prueba_input_program.c input_program.o -o prueba_input_program
+
+Cómo ejecutar:
+
+./prueba_input_program

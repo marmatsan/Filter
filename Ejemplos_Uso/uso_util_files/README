@@ -1,0 +1,9 @@
+Para compilar:
+
+gcc -Wall -g prueba_util_files.c util_files.o -o prueba_util_files
+
+
+Ejemplo de cómo ejecutar:
+
+./prueba_util_files . prueba_util_files.c
+
